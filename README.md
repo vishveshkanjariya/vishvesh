@@ -1,5 +1,5 @@
 # Hello, I'm VISHVESH
-<a href="www.linkedin.com/in/vishvesh-kanjariya"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/vishvesh-kanjariya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am an aspiring cybersecurity professional with a keen interest in protecting digital assets, securing networks, and mitigating cyber threats. My passion for cybersecurity stems from a deep curiosity about how technology works and the need to safeguard sensitive information in an increasingly digital world. I am eager to enhance my technical skills, stay updated with evolving cybersecurity trends, and contribute to creating a more secure cyber environment.
